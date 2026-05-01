@@ -1,0 +1,501 @@
+Title,Type,Genre,Release_Year,Duration,Country
+Show Y,TV Show,Action,2022,103,USA
+Movie A,TV Show,Documentary,2008,114,India
+Show X,TV Show,Comedy,2014,104,USA
+Show Y,Movie,Romance,2025,148,USA
+Show Y,TV Show,Documentary,2005,72,USA
+Show Y,Movie,Thriller,2025,151,India
+Show Y,Movie,Drama,2025,132,Canada
+Movie B,Movie,Comedy,2000,74,UK
+Movie B,TV Show,Thriller,2000,152,USA
+Show X,TV Show,Drama,2002,83,UK
+Movie B,TV Show,Action,2012,69,India
+Movie A,Movie,Romance,2022,70,Canada
+Movie A,Movie,Action,2003,84,USA
+Movie A,Movie,Comedy,2002,170,USA
+Show Z,Movie,Action,2014,92,USA
+Show X,TV Show,Comedy,2006,149,UK
+Movie A,Movie,Documentary,2015,68,UK
+Movie C,TV Show,Action,2024,178,UK
+Movie B,Movie,Romance,2018,150,India
+Movie C,Movie,Comedy,2019,97,India
+Show X,TV Show,Action,2018,85,UK
+Movie B,TV Show,Romance,2024,145,Canada
+Show X,TV Show,Action,2011,115,India
+Movie B,Movie,Drama,2020,97,India
+Movie A,TV Show,Thriller,2007,151,UK
+Movie B,TV Show,Thriller,2015,173,UK
+Show X,TV Show,Documentary,2017,71,Canada
+Movie B,Movie,Comedy,2001,136,India
+Movie A,TV Show,Action,2011,139,UK
+Movie B,TV Show,Documentary,2024,143,Canada
+Movie A,TV Show,Comedy,2016,83,USA
+Movie B,Movie,Documentary,2000,67,India
+Movie B,TV Show,Action,2025,69,USA
+Show X,TV Show,Drama,2016,140,India
+Movie A,TV Show,Comedy,2000,141,USA
+Movie B,TV Show,Documentary,2022,133,USA
+Movie A,Movie,Documentary,2000,78,UK
+Show Z,Movie,Thriller,2003,94,Canada
+Movie B,TV Show,Thriller,2008,152,USA
+Show Y,Movie,Comedy,2019,173,Canada
+Movie B,TV Show,Documentary,2011,169,USA
+Show Y,Movie,Thriller,2014,92,USA
+Movie C,Movie,Thriller,2025,111,USA
+Movie C,TV Show,Documentary,2006,143,Canada
+Movie A,TV Show,Action,2007,177,USA
+Movie C,TV Show,Action,2021,107,UK
+Show Y,TV Show,Drama,2022,169,India
+Show Y,Movie,Thriller,2015,100,UK
+Show Y,Movie,Documentary,2002,66,Canada
+Show X,TV Show,Romance,2002,164,USA
+Show X,Movie,Thriller,2020,128,UK
+Show Z,TV Show,Thriller,2004,125,USA
+Movie A,Movie,Romance,2004,111,USA
+Show Z,TV Show,Thriller,2003,169,USA
+Show Z,Movie,Documentary,2022,151,India
+Show Y,TV Show,Thriller,2024,178,Canada
+Movie B,TV Show,Documentary,2009,71,Canada
+Show Z,Movie,Documentary,2011,144,USA
+Movie B,Movie,Thriller,2023,127,Canada
+Movie B,Movie,Drama,2006,92,India
+Show X,TV Show,Romance,2011,72,India
+Show Z,TV Show,Romance,2009,167,UK
+Show X,TV Show,Thriller,2021,114,USA
+Movie C,Movie,Thriller,2025,139,India
+Movie C,TV Show,Documentary,2016,103,UK
+Movie C,Movie,Romance,2002,123,UK
+Movie B,TV Show,Comedy,2017,104,Canada
+Movie A,Movie,Action,2017,72,UK
+Movie A,TV Show,Comedy,2005,95,USA
+Movie B,Movie,Documentary,2006,127,Canada
+Movie A,Movie,Thriller,2020,168,USA
+Show Z,Movie,Documentary,2022,165,Canada
+Movie B,Movie,Documentary,2007,63,Canada
+Show X,TV Show,Comedy,2017,118,USA
+Show X,Movie,Drama,2007,97,India
+Movie C,TV Show,Comedy,2023,109,UK
+Show Z,Movie,Documentary,2001,100,India
+Show Y,Movie,Drama,2009,119,UK
+Movie A,Movie,Romance,2015,70,India
+Movie A,Movie,Thriller,2024,90,USA
+Show Z,TV Show,Romance,2022,79,USA
+Movie B,TV Show,Action,2016,122,India
+Movie C,TV Show,Documentary,2012,111,UK
+Movie B,Movie,Thriller,2018,91,UK
+Show X,Movie,Comedy,2013,168,India
+Show Z,TV Show,Comedy,2009,172,Canada
+Movie A,TV Show,Documentary,2025,79,Canada
+Show Y,Movie,Thriller,2012,168,Canada
+Movie B,Movie,Documentary,2013,97,UK
+Movie A,Movie,Romance,2006,141,UK
+Show Y,TV Show,Drama,2014,116,UK
+Movie C,TV Show,Documentary,2021,60,India
+Movie B,Movie,Thriller,2013,97,UK
+Show X,Movie,Thriller,2005,104,India
+Show Z,Movie,Thriller,2011,102,Canada
+Movie C,TV Show,Drama,2017,137,UK
+Movie A,Movie,Romance,2017,142,India
+Movie B,Movie,Romance,2022,107,India
+Movie C,TV Show,Comedy,2007,75,USA
+Show Z,Movie,Comedy,2005,173,India
+Show Z,TV Show,Comedy,2007,93,USA
+Movie B,Movie,Documentary,2001,115,India
+Show Y,Movie,Romance,2025,175,India
+Show Y,Movie,Romance,2000,97,Canada
+Show X,Movie,Documentary,2015,77,Canada
+Show Y,Movie,Documentary,2006,83,USA
+Show Y,Movie,Drama,2012,176,Canada
+Show Z,TV Show,Drama,2013,138,USA
+Movie B,TV Show,Romance,2022,174,UK
+Show X,TV Show,Action,2001,145,USA
+Show Z,TV Show,Drama,2013,95,USA
+Movie A,TV Show,Romance,2018,101,India
+Movie A,TV Show,Thriller,2004,161,UK
+Movie B,Movie,Drama,2013,175,USA
+Show Z,TV Show,Documentary,2001,100,India
+Show Y,TV Show,Drama,2001,100,UK
+Show Y,TV Show,Comedy,2006,148,USA
+Show X,Movie,Thriller,2018,172,USA
+Movie C,TV Show,Action,2005,107,Canada
+Show Z,TV Show,Documentary,2017,84,USA
+Movie A,TV Show,Romance,2012,84,USA
+Movie C,Movie,Action,2006,166,USA
+Movie A,Movie,Drama,2021,89,Canada
+Show Z,Movie,Thriller,2005,132,UK
+Movie C,TV Show,Documentary,2020,80,Canada
+Movie B,TV Show,Comedy,2021,80,Canada
+Show Z,TV Show,Drama,2001,127,India
+Show Y,TV Show,Drama,2011,140,UK
+Show Y,TV Show,Action,2003,165,UK
+Movie A,TV Show,Drama,2006,118,Canada
+Show Y,Movie,Drama,2003,180,USA
+Show Z,TV Show,Documentary,2016,103,UK
+Movie A,Movie,Comedy,2021,83,USA
+Movie C,TV Show,Thriller,2018,145,Canada
+Show X,Movie,Thriller,2012,154,USA
+Movie C,Movie,Drama,2018,160,India
+Show Z,Movie,Romance,2018,161,UK
+Movie C,Movie,Documentary,2015,152,USA
+Movie A,Movie,Documentary,2014,98,USA
+Movie C,Movie,Romance,2020,115,Canada
+Movie C,Movie,Documentary,2023,95,India
+Movie A,TV Show,Comedy,2010,118,India
+Movie B,TV Show,Romance,2023,162,USA
+Movie A,Movie,Drama,2008,76,Canada
+Movie B,TV Show,Drama,2010,66,UK
+Show Z,TV Show,Thriller,2020,172,India
+Show Y,Movie,Comedy,2016,123,USA
+Movie C,TV Show,Thriller,2012,75,Canada
+Movie A,Movie,Romance,2022,80,UK
+Movie B,Movie,Drama,2019,105,Canada
+Movie B,Movie,Action,2019,93,UK
+Movie B,Movie,Thriller,2010,141,India
+Show X,TV Show,Comedy,2015,178,UK
+Show Z,TV Show,Action,2023,79,Canada
+Movie C,Movie,Comedy,2018,102,USA
+Show Y,Movie,Romance,2011,123,Canada
+Movie A,TV Show,Action,2004,60,India
+Movie C,TV Show,Action,2023,129,USA
+Movie A,Movie,Romance,2011,153,USA
+Show X,TV Show,Thriller,2012,180,Canada
+Show X,TV Show,Thriller,2014,161,India
+Movie C,TV Show,Comedy,2015,154,India
+Show Z,TV Show,Action,2004,158,Canada
+Show Y,TV Show,Action,2015,152,UK
+Movie B,TV Show,Thriller,2000,67,Canada
+Show X,TV Show,Thriller,2016,138,Canada
+Show Z,Movie,Comedy,2015,87,India
+Show Z,Movie,Thriller,2023,135,India
+Show X,TV Show,Romance,2010,129,India
+Movie A,TV Show,Drama,2002,143,India
+Movie B,TV Show,Comedy,2002,126,UK
+Movie A,Movie,Drama,2016,87,UK
+Show X,TV Show,Comedy,2008,153,India
+Show X,Movie,Thriller,2017,118,India
+Movie B,Movie,Drama,2018,171,USA
+Show X,TV Show,Romance,2017,81,Canada
+Movie A,TV Show,Documentary,2009,65,UK
+Show Z,TV Show,Thriller,2014,65,India
+Movie B,TV Show,Action,2007,144,UK
+Movie C,Movie,Documentary,2005,94,USA
+Movie B,Movie,Comedy,2018,86,India
+Movie B,TV Show,Documentary,2004,125,Canada
+Movie C,Movie,Thriller,2014,178,USA
+Movie C,Movie,Action,2020,125,India
+Movie C,Movie,Comedy,2002,173,Canada
+Movie B,TV Show,Comedy,2023,141,India
+Show X,Movie,Thriller,2000,96,Canada
+Show Z,TV Show,Thriller,2025,125,UK
+Movie C,Movie,Drama,2014,171,Canada
+Movie C,TV Show,Action,2025,92,USA
+Movie B,TV Show,Comedy,2000,97,India
+Show X,Movie,Romance,2012,118,India
+Show Z,TV Show,Comedy,2001,99,Canada
+Show Y,Movie,Comedy,2010,154,India
+Movie B,TV Show,Thriller,2011,151,India
+Show Y,Movie,Thriller,2006,148,India
+Show Y,Movie,Thriller,2017,62,India
+Show X,Movie,Comedy,2006,179,India
+Movie A,Movie,Drama,2020,91,USA
+Show X,Movie,Action,2020,174,India
+Show X,TV Show,Action,2017,67,Canada
+Movie A,Movie,Documentary,2022,135,India
+Movie C,TV Show,Comedy,2006,101,UK
+Movie A,TV Show,Comedy,2000,161,Canada
+Show Y,TV Show,Thriller,2024,143,Canada
+Movie B,Movie,Drama,2019,93,Canada
+Show Z,Movie,Comedy,2008,164,UK
+Show Z,TV Show,Documentary,2005,143,UK
+Movie A,Movie,Documentary,2001,161,USA
+Show Z,TV Show,Action,2023,114,UK
+Show Y,Movie,Romance,2003,118,USA
+Show Z,TV Show,Action,2007,171,Canada
+Show X,Movie,Thriller,2000,80,India
+Movie A,Movie,Documentary,2024,104,India
+Show Y,TV Show,Comedy,2021,114,Canada
+Movie C,Movie,Romance,2023,83,USA
+Show Y,TV Show,Thriller,2004,174,USA
+Show X,Movie,Action,2004,118,India
+Show X,Movie,Romance,2016,152,UK
+Movie B,TV Show,Documentary,2013,145,India
+Show X,Movie,Documentary,2014,165,UK
+Movie B,TV Show,Comedy,2007,92,UK
+Movie C,Movie,Thriller,2014,129,USA
+Show Z,TV Show,Documentary,2003,97,UK
+Show Z,Movie,Romance,2007,134,Canada
+Movie A,Movie,Action,2006,170,India
+Movie A,TV Show,Romance,2002,63,India
+Movie C,Movie,Action,2013,75,USA
+Movie A,TV Show,Documentary,2014,139,UK
+Movie B,TV Show,Drama,2008,64,India
+Movie B,Movie,Action,2009,69,UK
+Show Z,Movie,Comedy,2020,70,India
+Show X,Movie,Thriller,2020,90,India
+Movie A,TV Show,Action,2004,77,USA
+Movie A,TV Show,Romance,2024,83,UK
+Show Y,Movie,Drama,2008,90,USA
+Show Y,TV Show,Comedy,2009,68,UK
+Show Y,TV Show,Documentary,2008,138,UK
+Show X,Movie,Documentary,2022,112,USA
+Movie A,TV Show,Drama,2008,85,Canada
+Show Z,TV Show,Drama,2013,119,USA
+Show X,TV Show,Action,2019,129,India
+Show Y,TV Show,Drama,2007,72,UK
+Movie A,Movie,Romance,2000,69,India
+Show Z,TV Show,Documentary,2020,137,Canada
+Movie B,TV Show,Documentary,2007,155,Canada
+Show Y,TV Show,Romance,2019,76,UK
+Movie A,TV Show,Drama,2019,92,Canada
+Movie C,TV Show,Drama,2021,62,UK
+Show Y,Movie,Thriller,2002,113,India
+Movie C,TV Show,Comedy,2000,132,India
+Movie B,Movie,Romance,2023,97,India
+Show Y,TV Show,Documentary,2022,179,USA
+Movie C,Movie,Romance,2012,118,India
+Movie B,TV Show,Comedy,2002,67,Canada
+Movie C,TV Show,Documentary,2002,122,Canada
+Movie B,Movie,Action,2017,171,India
+Movie A,TV Show,Romance,2020,98,Canada
+Movie A,Movie,Documentary,2021,84,India
+Show Z,TV Show,Documentary,2010,105,USA
+Movie C,Movie,Documentary,2015,110,UK
+Show X,TV Show,Comedy,2008,76,India
+Movie C,Movie,Thriller,2002,129,Canada
+Movie B,Movie,Action,2013,133,Canada
+Movie B,TV Show,Action,2007,161,USA
+Movie A,TV Show,Comedy,2014,118,Canada
+Show X,TV Show,Comedy,2001,134,India
+Show Z,Movie,Action,2012,70,USA
+Show Y,Movie,Action,2018,156,UK
+Show X,TV Show,Romance,2013,69,UK
+Show Z,Movie,Drama,2002,155,India
+Show X,Movie,Comedy,2010,147,India
+Show Z,TV Show,Comedy,2006,75,UK
+Show Z,TV Show,Comedy,2003,151,UK
+Movie A,Movie,Drama,2001,148,India
+Movie A,TV Show,Documentary,2014,163,UK
+Show Y,TV Show,Drama,2014,131,India
+Movie A,TV Show,Action,2005,64,USA
+Movie B,TV Show,Romance,2017,160,USA
+Show Z,Movie,Drama,2011,170,Canada
+Show X,TV Show,Comedy,2013,70,UK
+Show Y,Movie,Thriller,2003,120,UK
+Movie B,Movie,Drama,2012,131,UK
+Movie C,TV Show,Documentary,2021,127,India
+Show X,Movie,Comedy,2020,179,Canada
+Show X,Movie,Drama,2005,72,Canada
+Show Y,TV Show,Drama,2011,157,USA
+Show Z,TV Show,Documentary,2021,100,India
+Show X,Movie,Romance,2002,88,USA
+Show Z,TV Show,Thriller,2006,108,USA
+Movie C,TV Show,Thriller,2001,131,Canada
+Movie A,TV Show,Action,2024,112,Canada
+Movie C,Movie,Documentary,2005,141,Canada
+Show Z,Movie,Thriller,2003,131,USA
+Show X,TV Show,Romance,2014,176,USA
+Show Z,TV Show,Comedy,2021,82,USA
+Show Y,Movie,Comedy,2025,121,India
+Show Y,Movie,Documentary,2006,80,Canada
+Show X,TV Show,Thriller,2022,131,India
+Show Z,Movie,Action,2007,103,Canada
+Movie A,Movie,Drama,2002,145,India
+Movie A,Movie,Drama,2002,118,Canada
+Movie B,TV Show,Action,2009,120,USA
+Movie B,Movie,Comedy,2013,147,USA
+Movie B,Movie,Action,2007,124,USA
+Show Y,Movie,Action,2000,174,USA
+Show Y,TV Show,Comedy,2007,148,UK
+Show Y,Movie,Comedy,2020,175,Canada
+Movie C,Movie,Comedy,2017,89,USA
+Movie B,TV Show,Drama,2014,178,India
+Show X,TV Show,Comedy,2025,170,UK
+Show X,TV Show,Comedy,2010,168,India
+Show Y,TV Show,Thriller,2010,83,India
+Show Z,TV Show,Drama,2004,116,Canada
+Movie B,TV Show,Comedy,2008,75,Canada
+Movie C,Movie,Drama,2008,82,UK
+Show X,TV Show,Drama,2008,139,India
+Movie C,Movie,Drama,2024,129,India
+Show Z,TV Show,Comedy,2012,90,UK
+Show Z,TV Show,Documentary,2005,63,USA
+Show Z,Movie,Thriller,2025,64,UK
+Show X,TV Show,Action,2012,111,India
+Show Y,TV Show,Documentary,2023,142,USA
+Show Y,TV Show,Action,2017,178,Canada
+Movie A,Movie,Comedy,2016,117,USA
+Movie A,TV Show,Action,2001,105,USA
+Movie B,Movie,Drama,2004,65,UK
+Movie C,TV Show,Thriller,2016,145,India
+Show Y,Movie,Thriller,2010,177,Canada
+Movie B,Movie,Thriller,2005,164,Canada
+Show X,Movie,Comedy,2023,134,India
+Show X,TV Show,Comedy,2002,69,India
+Movie C,Movie,Action,2019,83,USA
+Movie C,Movie,Comedy,2012,104,India
+Movie B,TV Show,Documentary,2018,66,USA
+Show Z,TV Show,Documentary,2021,145,Canada
+Show Z,Movie,Thriller,2021,99,Canada
+Show Y,Movie,Action,2023,117,UK
+Movie C,Movie,Thriller,2012,73,Canada
+Movie B,Movie,Action,2004,111,Canada
+Movie A,Movie,Comedy,2008,123,India
+Movie A,Movie,Romance,2000,168,Canada
+Movie A,Movie,Action,2024,180,India
+Show Y,TV Show,Documentary,2005,160,USA
+Movie A,TV Show,Comedy,2023,136,Canada
+Show Y,Movie,Romance,2011,179,UK
+Show Z,Movie,Comedy,2020,86,Canada
+Show Y,TV Show,Thriller,2013,105,UK
+Show Y,Movie,Comedy,2002,179,India
+Show Y,Movie,Drama,2025,128,UK
+Movie A,Movie,Drama,2016,125,UK
+Show Y,TV Show,Romance,2014,87,Canada
+Show Y,TV Show,Documentary,2025,150,UK
+Show Y,Movie,Romance,2018,114,UK
+Show Y,TV Show,Romance,2013,80,USA
+Movie C,Movie,Documentary,2023,149,UK
+Show X,Movie,Drama,2007,144,USA
+Movie C,Movie,Comedy,2015,72,USA
+Movie A,TV Show,Action,2006,60,India
+Show Z,Movie,Thriller,2007,124,UK
+Movie A,TV Show,Thriller,2002,171,UK
+Movie C,Movie,Comedy,2002,126,USA
+Show X,TV Show,Documentary,2005,142,Canada
+Movie A,Movie,Drama,2018,133,USA
+Movie B,TV Show,Comedy,2021,177,USA
+Show Y,TV Show,Comedy,2006,174,UK
+Movie B,Movie,Documentary,2015,179,Canada
+Show Z,Movie,Thriller,2001,108,USA
+Show Y,TV Show,Documentary,2020,180,Canada
+Show X,TV Show,Drama,2018,152,UK
+Movie B,Movie,Action,2012,147,UK
+Show X,Movie,Thriller,2002,168,India
+Show Z,TV Show,Documentary,2024,120,UK
+Show Z,Movie,Documentary,2007,148,Canada
+Show Z,TV Show,Documentary,2015,72,Canada
+Show Y,Movie,Documentary,2009,133,UK
+Movie A,TV Show,Drama,2019,62,USA
+Movie C,Movie,Action,2018,60,Canada
+Show Z,Movie,Action,2017,97,Canada
+Show X,TV Show,Romance,2013,120,Canada
+Show Z,Movie,Drama,2003,77,Canada
+Movie C,TV Show,Thriller,2004,68,USA
+Movie A,TV Show,Documentary,2005,113,India
+Movie C,TV Show,Action,2018,140,India
+Movie C,Movie,Thriller,2005,170,Canada
+Movie C,TV Show,Thriller,2005,69,UK
+Show Y,Movie,Thriller,2020,91,Canada
+Movie B,Movie,Thriller,2001,93,Canada
+Movie A,TV Show,Drama,2012,133,Canada
+Show Z,Movie,Comedy,2025,77,UK
+Show X,TV Show,Romance,2009,137,USA
+Movie A,Movie,Documentary,2005,60,Canada
+Movie B,TV Show,Documentary,2019,74,UK
+Movie B,Movie,Drama,2005,80,USA
+Movie B,Movie,Documentary,2016,111,UK
+Movie A,TV Show,Drama,2023,167,USA
+Movie A,TV Show,Thriller,2023,148,Canada
+Show Z,Movie,Action,2023,173,UK
+Movie B,TV Show,Drama,2001,146,UK
+Movie C,Movie,Action,2008,102,India
+Show Z,TV Show,Action,2011,105,Canada
+Movie B,TV Show,Romance,2005,141,India
+Movie C,Movie,Comedy,2013,107,India
+Show Y,TV Show,Action,2018,77,India
+Movie B,Movie,Thriller,2024,76,Canada
+Movie B,TV Show,Action,2008,151,USA
+Movie B,Movie,Documentary,2008,66,India
+Movie B,Movie,Drama,2023,177,UK
+Show Z,TV Show,Documentary,2012,87,USA
+Movie C,Movie,Romance,2004,81,UK
+Movie C,Movie,Romance,2021,174,UK
+Show Y,Movie,Thriller,2006,119,USA
+Movie C,TV Show,Documentary,2025,66,UK
+Movie B,TV Show,Comedy,2001,115,UK
+Show Z,Movie,Action,2019,135,Canada
+Movie B,TV Show,Documentary,2000,150,UK
+Show Z,TV Show,Romance,2002,115,Canada
+Movie C,Movie,Romance,2009,126,Canada
+Movie A,Movie,Romance,2006,111,UK
+Show Z,TV Show,Romance,2015,80,India
+Movie A,Movie,Documentary,2024,84,Canada
+Show X,TV Show,Documentary,2015,79,USA
+Show X,Movie,Action,2009,141,USA
+Movie A,TV Show,Documentary,2017,157,Canada
+Movie C,TV Show,Documentary,2006,66,Canada
+Show Y,TV Show,Romance,2005,173,Canada
+Show Z,Movie,Documentary,2006,94,UK
+Movie C,TV Show,Comedy,2025,100,India
+Movie C,TV Show,Thriller,2012,127,UK
+Movie A,Movie,Thriller,2017,156,USA
+Show Y,TV Show,Action,2009,118,Canada
+Movie B,Movie,Drama,2014,122,UK
+Movie C,Movie,Thriller,2001,94,India
+Movie B,Movie,Documentary,2008,132,Canada
+Movie B,TV Show,Romance,2020,102,USA
+Movie A,TV Show,Drama,2012,178,Canada
+Movie C,TV Show,Thriller,2018,108,India
+Movie B,TV Show,Romance,2009,111,India
+Movie A,TV Show,Documentary,2016,124,USA
+Show Z,Movie,Comedy,2002,71,Canada
+Movie B,Movie,Action,2024,104,India
+Movie B,TV Show,Action,2006,170,USA
+Show Y,TV Show,Comedy,2021,65,Canada
+Movie B,TV Show,Romance,2005,143,UK
+Movie A,TV Show,Romance,2013,63,Canada
+Movie A,Movie,Romance,2004,72,USA
+Show Y,TV Show,Thriller,2010,114,UK
+Movie A,TV Show,Documentary,2007,129,UK
+Show Z,TV Show,Drama,2021,180,India
+Show Z,Movie,Drama,2001,105,India
+Show X,TV Show,Thriller,2007,161,India
+Show X,Movie,Romance,2013,106,Canada
+Movie C,TV Show,Comedy,2016,132,USA
+Movie B,Movie,Romance,2014,93,UK
+Show Z,Movie,Documentary,2001,128,India
+Movie A,TV Show,Drama,2011,162,India
+Show Z,Movie,Drama,2020,65,UK
+Show X,TV Show,Drama,2024,178,USA
+Movie B,Movie,Documentary,2024,128,USA
+Movie A,TV Show,Documentary,2000,141,Canada
+Movie B,Movie,Action,2016,173,UK
+Show Y,Movie,Drama,2019,148,India
+Movie A,TV Show,Documentary,2009,138,Canada
+Movie C,Movie,Romance,2021,70,USA
+Show Y,Movie,Drama,2002,166,Canada
+Movie A,TV Show,Romance,2014,165,India
+Movie C,Movie,Documentary,2004,152,USA
+Movie C,Movie,Drama,2020,167,USA
+Show Y,Movie,Documentary,2000,163,Canada
+Show Z,Movie,Comedy,2025,102,USA
+Movie B,Movie,Action,2005,79,Canada
+Show X,TV Show,Romance,2000,164,UK
+Show Z,TV Show,Drama,2008,135,UK
+Movie C,Movie,Action,2015,111,UK
+Movie A,TV Show,Romance,2000,100,India
+Movie A,TV Show,Comedy,2008,116,UK
+Movie A,Movie,Thriller,2013,138,UK
+Show X,TV Show,Comedy,2009,77,India
+Movie C,Movie,Drama,2013,153,UK
+Movie C,TV Show,Comedy,2012,75,UK
+Show Y,Movie,Drama,2021,167,India
+Movie A,Movie,Action,2014,103,USA
+Movie A,Movie,Romance,2006,108,India
+Show Z,Movie,Romance,2017,91,UK
+Movie C,TV Show,Documentary,2019,174,USA
+Movie C,TV Show,Action,2010,65,Canada
+Movie B,Movie,Thriller,2024,147,India
+Movie A,TV Show,Thriller,2016,72,India
+Show Y,Movie,Comedy,2019,97,USA
+Movie A,Movie,Action,2004,142,USA
+Movie C,Movie,Drama,2022,153,Canada
+Movie B,TV Show,Romance,2008,122,USA
+Show Y,Movie,Documentary,2002,89,UK
+Show Y,TV Show,Thriller,2013,135,USA
+Movie B,Movie,Comedy,2011,97,USA
+Movie C,Movie,Drama,2001,124,Canada
+Movie A,Movie,Comedy,2005,88,Canada
+Movie A,TV Show,Documentary,2003,142,USA
+Show Y,TV Show,Comedy,2008,103,UK
+Show Z,Movie,Documentary,2016,75,Canada
